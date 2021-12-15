@@ -1,0 +1,48 @@
+body.bg{
+  background-color: blue;
+}
+div.bg{
+    background-color: brown;
+    padding: 20px;
+    
+    color: bisque;
+}
+.bg >h1{
+  text-align: center;
+}
+
+div.head{
+  min-height: 700px;
+  background-color: chartreuse;
+}
+.bg >p{
+  text-align: left;
+}
+.grid-lyaout{
+  border: solid  rgb(0, 174, 255);
+}
+.co-bg1{
+  background-color: brown;
+}
+.co-bg2{
+  background-color: deeppink;
+}
+.cr{
+  padding: 10px;
+}
+li{
+  text-decoration: none;
+  list-style-type: none;
+  float: left;
+  padding: 5px;
+}
+
+.r2-bg1{
+  background-color: hotpink;
+}
+.r2-bg2{
+  background-color: aqua;
+}
+.co-bg3{
+  background-color: darkviolet;
+}
